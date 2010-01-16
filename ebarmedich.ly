@@ -50,7 +50,7 @@ guitar = \simultaneous {
 }
 
 \midi	{
-	tempoWholesPerMinute = #(ly:make-moment 58 4)
+	tempoWholesPerMinute = #(ly:make-moment 84 8)
 
 } % end midi
 
