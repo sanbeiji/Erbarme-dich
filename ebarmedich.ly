@@ -22,7 +22,7 @@ guitarUpperVoice = \relative c {
 	e32[( d cis16) b8( ais16) b-.] cis32[( b ais?16) g!8( fis16) g] g32[( fis e16) ais?8.( g32 fis)] g[( fis e16) cis'8.( fis,32 e)]
 	fis32[( e dis16) c8( b16) a'32( g)] a[( g fis16) e8( dis?16) c'32( b)] c[( b a16) g8( fis16) fis'32( e)] fis[( e) dis16) c?8( b16 fis')]
 	g32[( a b8) a32( g a g fis16)] e32[( fis g8) fis32( e fis e d16)] c32[( d e8) d32( c d c b16)] ais32[( b cis8) b32(ais? b-0 ais-3 gis16)]-1
-	fis8.-3 gis32(-1 ais-3 b-0 cis-2 d-3 cis) e8-.-0 d-. cis \trill b4.-0 ~ b4 r8 
+	fis8.-3 gis32(-1 ais-3 b-0 cis-2 d-3 cis) e8-.-0 d-.-3 cis \trill b4.-0 ~ b4 r8 
 
 \bar "|."
 
@@ -36,7 +36,7 @@ guitarLowerVoice = \relative c {
 	fis,4 r8 r4 r8 fis fis fis fis fis fis
 	b4 r8 r4 r8 b b b b b b
 	e, e e e e e e e e e e e'-2
-    d-4 cis-4 b-1 fis' fis, fis b4. ~ b4 r8
+    d-4 cis-4 b-1 fis'-4 fis, fis b4. ~ b4 r8
 
 
 }
