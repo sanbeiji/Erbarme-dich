@@ -3,7 +3,7 @@
 title = "Erbarme dich, from St. Matthew's Passion"
 composer = "Johann Sebastian Bach"
 arranger = "Arranged for classical guitar by Joseph R. Lewis"
-
+copyright = "License: http://creativecommons.org/licenses/by-sa/3.0/"
 } %end header
 
 guitarUpperVoice = \relative c {
@@ -17,7 +17,7 @@ guitarUpperVoice = \relative c {
 	\partial 8 fis8-3
 	\acciaccatura { b16-0[ cis-1] } d8.-2 \stemUp cis16 b8-0 \appoggiatura cis-2 b8.-0 ais16-2 b8-0 b4.-0 ~ b4 b8
 	\slurUp g'8.[( fis32 g a8] ~ a8.) g16 fis8 \appoggiatura fis-1 e4.-0 ~ e8. g16 e8-0
-	\appoggiatura d-3 c!8.-1 g'16-4 e8-1 \appoggiatura c!-3 b8.-2 g'16-1 e8-0 \appoggiatura b-3 ais8.[-2 \slurUp e'32(-0 fis-1 g8]-3 ~ g8.) fis16 e8
+	\appoggiatura d-3 c!8.-1 g'16-4 e8-1 \appoggiatura c!-3 b8.-2 g'16-1 e8-0 \appoggiatura b-3 ais8.[-2 \slurUp e'32(-0 fis-2 g8]-3 ~ g8.) fis16 e8
 	d8.( \trill cis32-1 d  e8-4 ~ e8.) d16-2 cis8-1 \appoggiatura b-4 ais4.-2 ~ ais8. fis16-4 ais?-2 cis
 	e32[( d cis16) b8( ais16) b-.] cis32[( b ais?16) g!8( fis16) g] g32[( fis e16) ais?8.( g32 fis)] g[( fis e16) cis'8.( fis,32 e)]
 	fis32[( e dis16) c8( b16) a'32( g)] a[( g fis16) e8( dis?16) c'32( b)] c[( b a16) g8( fis16) fis'32( e)] fis[( e) dis16) c?8( b16 fis')]
